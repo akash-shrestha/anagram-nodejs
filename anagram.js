@@ -1,5 +1,5 @@
-const s = 'anagram'          //input the first word 
-const t = 'nagaram'           //input the second word 
+const s = 'anagram'          //the first word 
+const t = 'nagaram'           //the second word 
 
 const arrayS = [...s]
 const arrayT = [...t]
